@@ -16,7 +16,7 @@ My Tech Background
 Programming
 
 - **C++**
--** Python**
+-**Python**
 -  **C**
 
 **Areas of Interest**
@@ -46,18 +46,6 @@ Programming
 • DBMS 
 • Embedded Systems
 
-Projects
-**Sensor-Based Warehouse Monitoring System**
-
-A smart monitoring system designed to track warehouse conditions using sensors such as IR, ultrasonic, temperature, gas, and LDR sensors. This project explores the use of sensors and embedded technology in a practical monitoring application.
-
-**AI-Based Noise Cancelling System**
-
-A project focused on reducing ambient noise using Digital Signal Processing and adaptive filtering techniques. It involves C programming, DSP concepts, and Raspberry Pi Pico.
-
-**Gesture-Controlled Space Invaders**
-
-A Space Invaders game controlled using hand gestures. The project combines Python, OpenCV, Pygame, and computer vision to create an interactive gaming experience.
 
 **Currently Exploring**
 •Artificial Intelligence and Machine Learning
