@@ -11,52 +11,71 @@ I'm an Electronics and Communication Engineering student specializing in Artific
 -Learning through projects and hands-on experience
 -Exploring different areas of technology and building practical applications
 
-My Tech Background
+**My Tech Background**
 
-Programming
+**Programming**
 
 - **C++**
+- 
 -**Python**
 -  **C**
 
 **Areas of Interest**
 
 •Artificial Intelligence 
+
 • Machine Learning 
+
 • Computer Vision 
 
 **Tools & Technologies**
 
-•Git 
-• GitHub 
-• VS Code 
-• OpenCV 
-• NumPy 
-• Pygame
+•**Git**
+
+• **GitHub**
+
+• **VS Code**
+
+• **OpenCV** 
+
+• **NumPy** 
+
+• **Pygame**
 
 **Databases**
 
-•SQL
-• MongoDB
+•**SQL**
+
+• **MongoDB**
 
 **Currently Learning**
 
-•Data Structures & Algorithms
-• Object-Oriented Programming
-• DBMS 
-• Embedded Systems
+•**Data Structures & Algorithms**
+
+•**Object-Oriented Programming**
+
+• **DBMS** 
+
+• **Embedded Systems**
 
 
 **Currently Exploring**
-•Artificial Intelligence and Machine Learning
-•Data Structures and Algorithms
-•Object-Oriented Programming
-•Digital Signal Processing
-•Computer Vision
-•Embedded Systems
-•Software Development
+•**Artificial Intelligence and Machine Learning**
+
+•**Data Structures and Algorithms**
+
+•**Object-Oriented Programming**
+
+•**Digital Signal Processing**
+
+•**Computer Vision**
+
+•**Embedded Systems**
+
+•**Software Development**
 
 **My Approach**
+
 Learn → Build → Experiment → Improve → Repeat
 
 
