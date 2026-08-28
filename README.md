@@ -30,8 +30,8 @@ Exploring the intersection of electronics, code and intelligent systems.
 - **Technical Member** — CodeX
 - **Participant** — Smart India Hackathon (SIH)
 - **Participant** — Concur
-- **Licensing Officer** — Selected for a leadership opportunity in college
-- **College Representative** — Represented my college at BCS
+- **LiaisonOfficer** — Selected for a leadership opportunity in college to represent in BCS 
+
 
 ---
 
