@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aditi Tandon 👋
+# Hi, I'm Aditi Tandon 
 
 ### ECE Student | AI & ML
 
