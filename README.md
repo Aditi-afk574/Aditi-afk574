@@ -16,7 +16,6 @@ I'm an Electronics and Communication Engineering student specializing in Artific
 **Programming**
 
 - **C++**
-- 
 -**Python**
 -  **C**
 
@@ -30,49 +29,49 @@ I'm an Electronics and Communication Engineering student specializing in Artific
 
 **Tools & Technologies**
 
-•**Git**
+• Git
 
-• **GitHub**
+•GitHubx
 
-• **VS Code**
+• VS Code
 
-• **OpenCV** 
+• OpenCV 
 
-• **NumPy** 
+• NumPy 
 
-• **Pygame**
+• Pygame
 
 **Databases**
 
-•**SQL**
+•SQL
 
-• **MongoDB**
+• MongoDB
 
-**Currently Learning**
+Currently Learning
 
-•**Data Structures & Algorithms**
+• Data Structures & Algorithms
 
-•**Object-Oriented Programming**
+• Object-Oriented Programming
 
-• **DBMS** 
+• DBMS
 
-• **Embedded Systems**
+• **Embedded Systems
 
 
 **Currently Exploring**
-•**Artificial Intelligence and Machine Learning**
+•Artificial Intelligence and Machine Learning
 
-•**Data Structures and Algorithms**
+•Data Structures and Algorithms
 
-•**Object-Oriented Programming**
+•Object-Oriented Programming
 
-•**Digital Signal Processing**
+•Digital Signal Processing
 
-•**Computer Vision**
+•Computer Vision
 
-•**Embedded Systems**
+•Embedded Systems
 
-•**Software Development**
+•Software Development
 
 **My Approach**
 
