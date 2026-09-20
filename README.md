@@ -26,10 +26,9 @@ Exploring the intersection of electronics, code and intelligent systems.
 
 ## **A few milestones**
 
-- **Vice President** — Society of Women (SW) Club
+- **Vice President** — Society of Women (SWE) Club
 - **Technical Member** — CodeX
 - **Participant** — Smart India Hackathon (SIH)
-- **Participant** — Concur
 - **LiaisonOfficer** — Selected for a leadership opportunity in college to represent in BCS 
 
 
